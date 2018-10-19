@@ -1,1 +1,1 @@
-# tensegrity-structure-35c3
+# Tensegrity-structure-35c3
